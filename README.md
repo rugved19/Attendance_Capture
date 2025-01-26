@@ -25,7 +25,5 @@ This project automates the process of recording and managing employee attendance
 - **SQL**: Database management.
 - **Entity Framework**: Interaction with the database.
 
-## Installation
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/attendance-management-system.git
+
+
